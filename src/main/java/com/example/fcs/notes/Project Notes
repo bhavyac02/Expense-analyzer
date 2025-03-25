@@ -1,1 +1,5 @@
 -> Always use /resources/static when placing frontend libraries.
+-> Further edits can be made in the Vehicle Entity and the vehicle controller by creating a separation on the type of'
+wheelers: Bike, cars.
+    -> If bike option is selected, it would list all of the bike present.
+    -> If the bike is not listed in the dropdown, you can create a custom field.
